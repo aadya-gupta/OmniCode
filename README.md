@@ -30,7 +30,7 @@ OmniCode is an intelligent coding assistant designed to enhance developer produc
 ### Steps
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/aadya-gupta/NexaCode.git
+   git clone https://github.com/aadya-gupta/OmniCode
    cd OmniCode
 
 2. Create and activate a virtual environment:
