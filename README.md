@@ -1,6 +1,8 @@
 # OmniCode
 
 ## Overview
+Stuck fixing bugs again? Worry not, OmniCode got your back!
+
 OmniCode is an intelligent coding assistant designed to enhance developer productivity. It provides a unified platform for code generation, bug detection, unit test creation, and code explanation. By integrating AI-powered solutions with static analyzers, OmniCode streamlines the software development process while supporting multiple programming languages.
 
 ## Features
